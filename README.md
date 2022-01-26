@@ -67,3 +67,25 @@ $my_array["dog"] = "max cuteness";= même syntaxe pour changer des éléments ex
 unset() =fonction qui permet de faire re bouger les clés et leurs valeurs.
 
 (+) = union d'opérateurs qui prend 2 opérateurs et les retourne dans un nouvel array.
+
+
+Loops
+
+
+while =la boucle exécute aussi longtemps que la condition est vraie( TRUE.).
+
+do…while =la boucle exécute toujours la boucle au moins une fois et continue à exécuter tant qu’elle est vraie.
+
+for =la boucle contient 3 expressions souvent utilisées et exécute à bloc de code un nombre plusieurs fois.
+
+La première expression est exécutée à la première itération (valeur initiale).
+
+La seconde expression permet de continuer la boucle tant que l’expression est vraie.
+
+La 3e expression est évaluée après chaque itération.
+
+foreach =les boucles sont utilisés sont utilisés pour itérer les éléments	dans un tableau. Les clés et les valeurs de chaque élément sont disponibles dans le code. 
+
+break = est utilisé pour arrêter une exécution de boucle plus tôt.
+
+continue = est utilisé pour arrêter une itération de boucle mais continuer les prochaines itérations.
