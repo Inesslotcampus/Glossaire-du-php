@@ -47,3 +47,23 @@ array_shift()= fonction rebouge le 1 élément  de l’ array.
 array_unshift()= fonction ajoute  des éléments au début de l’array.
 
 square brackets ([]) =pour accéder aux changements.
+
+
+Associative array 
+
+
+Associative arrays= structures de données qui ont des string ou intègrent des clés associés à des valeurs.
+
+=> =opérateur pour associer la clé à la valeur. $my_array = ["panda"=>"very cute"]
+
+To print an array’s keys and their values, we can use the print_r()= print les clés des array avec leurs valeurs.
+
+([ ])= permet d’avoir accès aux valeurs associées aux clés. exemple: $my_array["panda"] retourne  "very cute".
+
+(=): bonne syntaxe  $my_array["dog"] = "good cuteness";
+
+$my_array["dog"] = "max cuteness";= même syntaxe pour changer des éléments existants.
+
+unset() =fonction qui permet de faire re bouger les clés et leurs valeurs.
+
+(+) = union d'opérateurs qui prend 2 opérateurs et les retourne dans un nouvel array.
