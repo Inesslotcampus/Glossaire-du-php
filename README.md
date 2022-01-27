@@ -89,3 +89,27 @@ foreach =les boucles sont utilisés sont utilisés pour itérer les éléments	d
 break = est utilisé pour arrêter une exécution de boucle plus tôt.
 
 continue = est utilisé pour arrêter une itération de boucle mais continuer les prochaines itérations.
+
+ 
+Fonction
+
+
+function= permet de mettre nos instructions dans une fonction et les réutiliser tant qu’on veut.
+
+return = La fonction va retourner un mot clés. si il n’y a pas de mot clés elle va retourner =NULL qui veut dire sans valeur. On peut stocker la valeur de return de la valeur dans une variable.
+
+Paramètre= dans une fonction les paramètres permettent de stocker des variables avec quoi on peut se repérer dans la fonction.
+
+Quand on invoque des fonctions, les valeurs qu’on donne s’appellent des arguments.
+
+L’ordre des arguments décident avec quels paramètres ils sont associés.
+
+On peut rendre un argument optionnel quand le paramètre qui lui correspond à une valeur par défaut. 
+
+(&)=l’argument va passer en préférence si il est avant le paramètre. 
+
+Les variables dans les fonctions ont des objectifs locaux et ne peuvent pas avoir accès en  dehors de la fonction.
+
+global =mot clé qui utilise des variables qui ont des objectifs globaux en dehors des fonctions.
+
+
