@@ -112,4 +112,11 @@ Les variables dans les fonctions ont des objectifs locaux et ne peuvent pas avoi
 
 global =mot clé qui utilise des variables qui ont des objectifs globaux en dehors des fonctions.
 
+HTML
+ 
+Le back-end a toute la logique et les données dont il a besoin pour maintenir le site web ou l’application.
+
+PHP est un langage de back.
+
+PHP peut être utilisé pour générer des fichiers html.
 
