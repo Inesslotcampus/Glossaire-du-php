@@ -112,11 +112,29 @@ Les variables dans les fonctions ont des objectifs locaux et ne peuvent pas avoi
 
 global =mot clé qui utilise des variables qui ont des objectifs globaux en dehors des fonctions.
 
+
 HTML
+ 
  
 Le back-end a toute la logique et les données dont il a besoin pour maintenir le site web ou l’application.
 
 PHP est un langage de back.
 
 PHP peut être utilisé pour générer des fichiers html.
+
+
+Formulaire
+
+
+<?= =raccourcis de  <?php echo.
+
+$_GET =get request qui contient des données d’un tableau associatif.
+
+$_POST =post request qui contient des données d’un tableau associatif.
+
+$_REQUEST contient des données de GET et POST. 
+
+name =les clés des tableaux dans php request superglobal utilisent un nom attribué avec les formes de html.
+
+action = sont attribués spécialement avec des fichiers qui s’occupent des données de form request.
 
